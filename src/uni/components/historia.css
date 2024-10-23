@@ -1,0 +1,74 @@
+
+
+.historia_container{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+   
+}
+
+
+.container_ img {
+    width: 80%;
+}
+
+
+.container_ img img{
+    width: 100%;
+}
+.p_container{
+    width: 50%;
+}
+
+.p_container h3{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(246, 135, 44);
+
+}
+
+
+.mvv_container{
+    display: flex;
+    
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.item_container{
+    width: 20%;
+}
+
+.item_container h4{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(246, 135, 44);
+
+
+}
+
+
+.cifras_container{
+    height: 180px;
+    width: 100%;
+    margin:  60px 0;
+    background: linear-gradient(90deg, rgba(251,246,143, .8) 0%, rgb(246, 135, 44, .8) 35%, rgba(247,213,57, .8) 100%), url('./img/pexels-keira-burton-6146978.jpg');
+    background-position: 10%;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.cifras_item_container{
+    height: 40%;
+}

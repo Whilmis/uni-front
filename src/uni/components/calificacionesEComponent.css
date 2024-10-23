@@ -1,0 +1,63 @@
+
+  
+
+  
+  /* List Styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #e9ecef;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  li button {
+    margin: 0;
+    width: auto;
+  }
+  
+  /* Table Styles for Data Table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table th {
+    background:  rgb(246, 135, 44) ;
+    color: white;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  h1 {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(246, 135, 44) ;
+  }
+
+  h2{
+    color: rgb(246, 135, 44) ;
+    margin: 20px;
+   
+
+  }
+  
+
+ 
